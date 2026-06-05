@@ -53,4 +53,4 @@ These docs track package **v1.12.x**. See the [CHANGELOG](https://github.com/sim
 
 ## License
 
-MIT — see the [GitHub repository](https://github.com/simulieren/adonisjs-server-stats).
+MIT — see [LICENSE](https://github.com/kennymark/adonisjs-server-stats/blob/main/LICENSE) in this repository.
